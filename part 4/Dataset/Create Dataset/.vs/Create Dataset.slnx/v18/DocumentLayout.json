@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\course 18 part 4\\Dataset\\Create Dataset\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47C32737-352F-44E9-A4C4-B1F042DF941B}|..\\Access Datatables Inside Dataset By Name\\Access Datatables Inside Dataset By Name.csproj|c:\\users\\pc\\source\\repos\\course 18 part 4\\dataset\\access datatables inside dataset by name\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27C320E-DA90-444F-996E-40E3AFC3134C}|Create Dataset.csproj|c:\\users\\pc\\source\\repos\\course 18 part 4\\dataset\\create dataset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27C320E-DA90-444F-996E-40E3AFC3134C}|Create Dataset.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\course 18 part 4\\Dataset\\Access Datatables Inside Dataset By Name\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Access Datatables Inside Dataset By Name\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\course 18 part 4\\Dataset\\Access Datatables Inside Dataset By Name\\Program.cs",
+              "RelativeToolTip": "..\\Access Datatables Inside Dataset By Name\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:23:53.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\course 18 part 4\\Dataset\\Create Dataset\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\course 18 part 4\\Dataset\\Create Dataset\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEcAAAAAMzMzMzMbwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:20:23.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

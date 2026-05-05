@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Filtering Data in Dataview/Filtering Data in Dataview.csproj" />
+  <Project Path="../Sorting Data in Dataview/Sorting Data in Dataview.csproj" />
+  <Project Path="Create Dataview from Datatable.csproj" />
+</Solution>

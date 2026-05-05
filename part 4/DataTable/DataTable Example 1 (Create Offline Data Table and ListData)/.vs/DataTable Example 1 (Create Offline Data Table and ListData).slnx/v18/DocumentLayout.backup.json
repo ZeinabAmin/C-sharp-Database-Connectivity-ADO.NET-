@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\course 18 part 4\\DataTable\\DataTable Example 1 (Create Offline Data Table and ListData)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A43D6901-A6B7-466F-B666-6EC76EB58B9A}|..\\DataTable Example 9 (AutoIncrement and Others)\\DataTable Example 9 (AutoIncrement and Others).csproj|c:\\users\\pc\\source\\repos\\course 18 part 4\\datatable\\datatable example 9 (autoincrement and others)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3551C3A1-38F5-497D-8109-0B4B7290B991}|..\\DataTable Example 8 (Primary Key)\\DataTable Example 8 (Primary Key).csproj|c:\\users\\pc\\source\\repos\\course 18 part 4\\datatable\\datatable example 8 (primary key)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE15D5B-D8B9-4E47-A1FF-9DD8DA8F5F6A}|..\\Datatable Example 7 (Clear)\\Datatable Example 7 (Clear).csproj|c:\\users\\pc\\source\\repos\\course 18 part 4\\datatable\\datatable example 7 (clear)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153DF547-E2F2-4F8B-8884-A5EA0046C8C5}|..\\Datatable Example 6 (Update Rows)\\Datatable Example 6 (Update Rows).csproj|c:\\users\\pc\\source\\repos\\course 18 part 4\\datatable\\datatable example 6 (update rows)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\course 18 part 4\\DataTable\\DataTable Example 9 (AutoIncrement and Others)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DataTable Example 9 (AutoIncrement and Others)\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\course 18 part 4\\DataTable\\DataTable Example 9 (AutoIncrement and Others)\\Program.cs",
+              "RelativeToolTip": "..\\DataTable Example 9 (AutoIncrement and Others)\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:01:52.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\course 18 part 4\\DataTable\\DataTable Example 8 (Primary Key)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DataTable Example 8 (Primary Key)\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\course 18 part 4\\DataTable\\DataTable Example 8 (Primary Key)\\Program.cs",
+              "RelativeToolTip": "..\\DataTable Example 8 (Primary Key)\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:00:30.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\course 18 part 4\\DataTable\\Datatable Example 6 (Update Rows)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Datatable Example 6 (Update Rows)\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\course 18 part 4\\DataTable\\Datatable Example 6 (Update Rows)\\Program.cs",
+              "RelativeToolTip": "..\\Datatable Example 6 (Update Rows)\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:59:36.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\course 18 part 4\\DataTable\\Datatable Example 7 (Clear)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Datatable Example 7 (Clear)\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\course 18 part 4\\DataTable\\Datatable Example 7 (Clear)\\Program.cs",
+              "RelativeToolTip": "..\\Datatable Example 7 (Clear)\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:58:33.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="../DataTable Example 2 (Count, Sum, Avg, Min, Max)/DataTable Example 2 (Count, Sum, Avg, Min, Max).csproj" />
+  <Project Path="../DataTable Example 3 (Filter Data)/DataTable Example 3 (Filter Data).csproj" />
+  <Project Path="../Datatable Example 4 (Sorting)/Datatable Example 4 (Sorting).csproj" />
+  <Project Path="../Datatable Example 5 (Delete Rows)/Datatable Example 5 (Delete Rows).csproj" />
+  <Project Path="../Datatable Example 6 (Update Rows)/Datatable Example 6 (Update Rows).csproj" />
+  <Project Path="../Datatable Example 7 (Clear)/Datatable Example 7 (Clear).csproj" />
+  <Project Path="../DataTable Example 8 (Primary Key)/DataTable Example 8 (Primary Key).csproj" />
+  <Project Path="../DataTable Example 9 (AutoIncrement and Others)/DataTable Example 9 (AutoIncrement and Others).csproj" />
+  <Project Path="DataTable Example 1 (Create Offline Data Table and ListData).csproj" />
+</Solution>

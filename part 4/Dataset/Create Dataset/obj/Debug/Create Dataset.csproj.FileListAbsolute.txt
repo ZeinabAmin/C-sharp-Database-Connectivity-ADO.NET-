@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\course 18 part 4\Dataset\Create Dataset\bin\Debug\Create Dataset.exe.config
+C:\Users\pc\source\repos\course 18 part 4\Dataset\Create Dataset\bin\Debug\Create Dataset.exe
+C:\Users\pc\source\repos\course 18 part 4\Dataset\Create Dataset\bin\Debug\Create Dataset.pdb
+C:\Users\pc\source\repos\course 18 part 4\Dataset\Create Dataset\obj\Debug\Create Dataset.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\course 18 part 4\Dataset\Create Dataset\obj\Debug\Create Dataset.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\course 18 part 4\Dataset\Create Dataset\obj\Debug\Create Dataset.exe
+C:\Users\pc\source\repos\course 18 part 4\Dataset\Create Dataset\obj\Debug\Create Dataset.pdb
