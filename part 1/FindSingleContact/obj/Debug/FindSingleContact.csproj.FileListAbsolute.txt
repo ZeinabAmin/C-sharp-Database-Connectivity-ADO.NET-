@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\course 18\FindSingleContact\bin\Debug\FindSingleContact.exe.config
+C:\Users\pc\source\repos\course 18\FindSingleContact\bin\Debug\FindSingleContact.exe
+C:\Users\pc\source\repos\course 18\FindSingleContact\bin\Debug\FindSingleContact.pdb
+C:\Users\pc\source\repos\course 18\FindSingleContact\obj\Debug\FindSingleContact.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\course 18\FindSingleContact\obj\Debug\FindSingleContact.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\course 18\FindSingleContact\obj\Debug\FindSingleContact.exe
+C:\Users\pc\source\repos\course 18\FindSingleContact\obj\Debug\FindSingleContact.pdb

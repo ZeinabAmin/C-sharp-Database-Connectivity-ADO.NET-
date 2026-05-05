@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\course 18\Handle In Statement\bin\Debug\Handle In Statement.exe.config
+C:\Users\pc\source\repos\course 18\Handle In Statement\bin\Debug\Handle In Statement.exe
+C:\Users\pc\source\repos\course 18\Handle In Statement\bin\Debug\Handle In Statement.pdb
+C:\Users\pc\source\repos\course 18\Handle In Statement\obj\Debug\Handle In Statement.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\course 18\Handle In Statement\obj\Debug\Handle In Statement.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\course 18\Handle In Statement\obj\Debug\Handle In Statement.exe
+C:\Users\pc\source\repos\course 18\Handle In Statement\obj\Debug\Handle In Statement.pdb

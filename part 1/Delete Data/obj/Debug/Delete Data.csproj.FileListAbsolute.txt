@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\course 18\Delete Data\bin\Debug\Delete Data.exe.config
+C:\Users\pc\source\repos\course 18\Delete Data\bin\Debug\Delete Data.exe
+C:\Users\pc\source\repos\course 18\Delete Data\bin\Debug\Delete Data.pdb
+C:\Users\pc\source\repos\course 18\Delete Data\obj\Debug\Delete Data.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\course 18\Delete Data\obj\Debug\Delete Data.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\course 18\Delete Data\obj\Debug\Delete Data.exe
+C:\Users\pc\source\repos\course 18\Delete Data\obj\Debug\Delete Data.pdb

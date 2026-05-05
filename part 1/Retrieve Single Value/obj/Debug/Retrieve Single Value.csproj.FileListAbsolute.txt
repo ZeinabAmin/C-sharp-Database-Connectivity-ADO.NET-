@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\course 18\Retrieve Single Value\bin\Debug\Retrieve Single Value.exe.config
+C:\Users\pc\source\repos\course 18\Retrieve Single Value\bin\Debug\Retrieve Single Value.exe
+C:\Users\pc\source\repos\course 18\Retrieve Single Value\bin\Debug\Retrieve Single Value.pdb
+C:\Users\pc\source\repos\course 18\Retrieve Single Value\obj\Debug\Retrieve Single Value.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\course 18\Retrieve Single Value\obj\Debug\Retrieve Single Value.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\course 18\Retrieve Single Value\obj\Debug\Retrieve Single Value.exe
+C:\Users\pc\source\repos\course 18\Retrieve Single Value\obj\Debug\Retrieve Single Value.pdb

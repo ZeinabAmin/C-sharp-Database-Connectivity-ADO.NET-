@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="../Delete Data/Delete Data.csproj" />
+  <Project Path="../FindSingleContact/FindSingleContact.csproj" />
+  <Project Path="../Handle In Statement/Handle In Statement.csproj" />
+  <Project Path="../Insert-Add Data/Insert-Add Data.csproj" />
+  <Project Path="../Paramitarized Query for Like/Paramitarized Query for Like.csproj" />
+  <Project Path="../Retrieve All Contacts with Parameters/Retrieve All Contacts with Parameters.csproj" />
+  <Project Path="../Retrieve Auto Number after Inserting-Adding Data/Retrieve Auto Number after Inserting-Adding Data.csproj" />
+  <Project Path="../Retrieve Single Value/Retrieve Single Value.csproj" />
+  <Project Path="../Update Data/Update Data.csproj" />
+  <Project Path="Retrieve All Contacts.csproj" />
+</Solution>

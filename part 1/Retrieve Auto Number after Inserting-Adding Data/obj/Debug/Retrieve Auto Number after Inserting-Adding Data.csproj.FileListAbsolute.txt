@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\course 18\Retrieve Auto Number after Inserting-Adding Data\bin\Debug\Retrieve Auto Number after Inserting-Adding Data.exe.config
+C:\Users\pc\source\repos\course 18\Retrieve Auto Number after Inserting-Adding Data\bin\Debug\Retrieve Auto Number after Inserting-Adding Data.exe
+C:\Users\pc\source\repos\course 18\Retrieve Auto Number after Inserting-Adding Data\bin\Debug\Retrieve Auto Number after Inserting-Adding Data.pdb
+C:\Users\pc\source\repos\course 18\Retrieve Auto Number after Inserting-Adding Data\obj\Debug\Retrieve Auto Number after Inserting-Adding Data.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\course 18\Retrieve Auto Number after Inserting-Adding Data\obj\Debug\Retrieve Auto Number after Inserting-Adding Data.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\course 18\Retrieve Auto Number after Inserting-Adding Data\obj\Debug\Retrieve Auto Number after Inserting-Adding Data.exe
+C:\Users\pc\source\repos\course 18\Retrieve Auto Number after Inserting-Adding Data\obj\Debug\Retrieve Auto Number after Inserting-Adding Data.pdb

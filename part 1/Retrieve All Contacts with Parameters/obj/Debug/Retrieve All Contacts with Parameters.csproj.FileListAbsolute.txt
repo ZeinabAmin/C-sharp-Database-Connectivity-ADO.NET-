@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\course 18\Retrieve All Contacts with Parameters\bin\Debug\Retrieve All Contacts with Parameters.exe.config
+C:\Users\pc\source\repos\course 18\Retrieve All Contacts with Parameters\bin\Debug\Retrieve All Contacts with Parameters.exe
+C:\Users\pc\source\repos\course 18\Retrieve All Contacts with Parameters\bin\Debug\Retrieve All Contacts with Parameters.pdb
+C:\Users\pc\source\repos\course 18\Retrieve All Contacts with Parameters\obj\Debug\Retrieve All Contacts with Parameters.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\course 18\Retrieve All Contacts with Parameters\obj\Debug\Retrieve All Contacts with Parameters.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\course 18\Retrieve All Contacts with Parameters\obj\Debug\Retrieve All Contacts with Parameters.exe
+C:\Users\pc\source\repos\course 18\Retrieve All Contacts with Parameters\obj\Debug\Retrieve All Contacts with Parameters.pdb

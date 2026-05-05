@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\course 18\Paramitarized Query for Like\bin\Debug\Paramitarized Query for Like.exe.config
+C:\Users\pc\source\repos\course 18\Paramitarized Query for Like\bin\Debug\Paramitarized Query for Like.exe
+C:\Users\pc\source\repos\course 18\Paramitarized Query for Like\bin\Debug\Paramitarized Query for Like.pdb
+C:\Users\pc\source\repos\course 18\Paramitarized Query for Like\obj\Debug\Paramitarized Query for Like.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\course 18\Paramitarized Query for Like\obj\Debug\Paramitarized Query for Like.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\course 18\Paramitarized Query for Like\obj\Debug\Paramitarized Query for Like.exe
+C:\Users\pc\source\repos\course 18\Paramitarized Query for Like\obj\Debug\Paramitarized Query for Like.pdb

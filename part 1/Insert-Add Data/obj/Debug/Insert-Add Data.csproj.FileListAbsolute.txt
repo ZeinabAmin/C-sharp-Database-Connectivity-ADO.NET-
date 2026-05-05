@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\course 18\Insert-Add Data\bin\Debug\Insert-Add Data.exe.config
+C:\Users\pc\source\repos\course 18\Insert-Add Data\bin\Debug\Insert-Add Data.exe
+C:\Users\pc\source\repos\course 18\Insert-Add Data\bin\Debug\Insert-Add Data.pdb
+C:\Users\pc\source\repos\course 18\Insert-Add Data\obj\Debug\Insert-Add Data.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\course 18\Insert-Add Data\obj\Debug\Insert-Add Data.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\course 18\Insert-Add Data\obj\Debug\Insert-Add Data.exe
+C:\Users\pc\source\repos\course 18\Insert-Add Data\obj\Debug\Insert-Add Data.pdb

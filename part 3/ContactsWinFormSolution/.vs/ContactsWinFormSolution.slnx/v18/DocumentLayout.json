@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\course 18 part 3\\ContactsWinFormSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCA62D1-1831-4582-9787-BF9A76E81E1F}|ContactsPresentationLayer.csproj|c:\\users\\pc\\source\\repos\\course 18 part 3\\contactswinformsolution\\frmaddeditcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCA62D1-1831-4582-9787-BF9A76E81E1F}|ContactsPresentationLayer.csproj|solutionrelative:frmaddeditcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCA62D1-1831-4582-9787-BF9A76E81E1F}|ContactsPresentationLayer.csproj|c:\\users\\pc\\source\\repos\\course 18 part 3\\contactswinformsolution\\frmaddeditcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDCA62D1-1831-4582-9787-BF9A76E81E1F}|ContactsPresentationLayer.csproj|solutionrelative:frmaddeditcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAddEditContact.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\course 18 part 3\\ContactsWinFormSolution\\frmAddEditContact.cs",
+              "RelativeDocumentMoniker": "frmAddEditContact.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\course 18 part 3\\ContactsWinFormSolution\\frmAddEditContact.cs",
+              "RelativeToolTip": "frmAddEditContact.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:48:38.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAddEditContact.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\course 18 part 3\\ContactsWinFormSolution\\frmAddEditContact.cs",
+              "RelativeDocumentMoniker": "frmAddEditContact.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\course 18 part 3\\ContactsWinFormSolution\\frmAddEditContact.cs [Design]",
+              "RelativeToolTip": "frmAddEditContact.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:48:34.196Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
